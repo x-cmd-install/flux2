@@ -1,0 +1,60 @@
+about:
+  description: Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
+  license: Apache-2.0
+  homepage: https://fluxcd.io
+  head: 602d148
+  archived: false
+  latestVersion: v2.9.5
+  collectedAt: 2026-09-03T04:56:10Z
+timeline:
+  created: 2020-04-24
+  lastCommit: 2026-08-31
+  lastRelease: 2026-08-31
+popularity:
+  star: 8381
+  watcher: 67
+  fork: 778
+  release: 215
+  contributor: 201
+  pullRequest: 332
+  issue: 1650
+language:
+  Go: 1389008
+  HCL: 9342
+  Shell: 7615
+  Makefile: 4298
+  Dockerfile: 504
+totalLine: 1410767
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 2
+    mergedPR: 9
+    openPR: 10
+    closedIssue: 3
+    openIssue: 5
+    commit: 3
+  last90d:
+    since: 2026-06-05
+    release: 6
+    mergedPR: 47
+    openPR: 20
+    closedIssue: 22
+    openIssue: 16
+    commit: 46
+  last180d:
+    since: 2026-03-07
+    release: 13
+    mergedPR: 104
+    openPR: 28
+    closedIssue: 52
+    openIssue: 28
+    commit: 114
+  last360d:
+    since: 2025-09-08
+    release: 21
+    mergedPR: 207
+    openPR: 34
+    closedIssue: 106
+    openIssue: 46
+    commit: 198
