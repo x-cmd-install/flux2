@@ -7,7 +7,7 @@ about:
   head: 602d148
   archived: false
   latestVersion: v2.9.5
-  collectedAt: 2026-09-04T19:54:59Z
+  collectedAt: 2026-09-04T20:45:27Z
 timeline:
   created: 2020-04-24
   lastCommit: 2026-08-31
@@ -84,6 +84,64 @@ total:
   openIssue: 200
   commit: 3983
 ---
+path: /home/runner/.x-repo/github.com/fluxcd/flux2
+collectedAt: 2026-09-04T20:45:28Z
+loc:
+  Go:
+    code: 33479
+    comments: 6491
+    blanks: 5829
+    files: 341
+  Yaml:
+    code: 5517
+    comments: 23
+    blanks: 94
+    files: 203
+  Hcl:
+    code: 320
+    comments: 0
+    blanks: 61
+    files: 14
+  Sh:
+    code: 229
+    comments: 40
+    blanks: 38
+    files: 2
+  Json:
+    code: 147
+    comments: 0
+    blanks: 0
+    files: 5
+  Makefile:
+    code: 99
+    comments: 4
+    blanks: 28
+    files: 2
+  Dockerfile:
+    code: 13
+    comments: 0
+    blanks: 8
+    files: 1
+  Toml:
+    code: 3
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 3199
+    blanks: 1134
+    files: 25
+  Text:
+    code: 0
+    comments: 15
+    blanks: 0
+    files: 5
+total:
+  code: 41145
+  comments: 9968
+  blanks: 7294
+  files: 599
 ---
 date: "2026-08-31T15:48:58Z"
 repo:
