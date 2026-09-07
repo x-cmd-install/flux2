@@ -5,7 +5,7 @@ about:
   head: dede56a
   archived: false
   latestVersion: "v2.9.5"
-  collectedAt: 2026-09-07T05:11:09Z
+  collectedAt: 2026-09-07T19:18:54Z
 timeline:
   created: 2020-04-24
   lastCommit: 2026-09-06
@@ -13,10 +13,10 @@ timeline:
 popularity:
   star: 8384
   watcher: 68
-  fork: 778
+  fork: 780
   release: 215
   contributor: 201
-  pullRequest: 2106
+  pullRequest: 2108
   issue: 1651
 language:
   Go: 1389008
@@ -30,7 +30,7 @@ recent:
     since: 2026-08-08
     release: 1
     mergedPR: 5
-    openPR: 8
+    openPR: 10
     closedIssue: 3
     openIssue: 6
     commit: 2
@@ -38,7 +38,7 @@ recent:
     since: 2026-07-09
     release: 4
     mergedPR: 24
-    openPR: 16
+    openPR: 18
     closedIssue: 7
     openIssue: 12
     commit: 10
@@ -46,7 +46,7 @@ recent:
     since: 2026-06-09
     release: 6
     mergedPR: 47
-    openPR: 18
+    openPR: 20
     closedIssue: 20
     openIssue: 17
     commit: 45
@@ -54,7 +54,7 @@ recent:
     since: 2026-03-11
     release: 13
     mergedPR: 102
-    openPR: 26
+    openPR: 28
     closedIssue: 51
     openIssue: 28
     commit: 108
@@ -62,7 +62,7 @@ recent:
     since: 2025-09-12
     release: 21
     mergedPR: 207
-    openPR: 32
+    openPR: 34
     closedIssue: 106
     openIssue: 45
     commit: 186
@@ -70,20 +70,20 @@ recent:
     since: 2024-09-17
     release: 29
     mergedPR: 330
-    openPR: 36
+    openPR: 38
     closedIssue: 224
     openIssue: 83
     commit: 610
 total:
   release: 215
   mergedPR: 1775
-  openPR: 55
+  openPR: 57
   closedIssue: 1450
   openIssue: 201
   commit: 3985
 ---
 path: /home/runner/.x-repo/github.com/fluxcd/flux2
-collectedAt: 2026-09-07T05:11:10Z
+collectedAt: 2026-09-07T19:18:56Z
 loc:
   Go:
     code: 33479
@@ -300,7 +300,7 @@ checks:
       - 'Info: found contributions from: 0x686868, DevOpsDays-Denver, DoodleScheduling, Gear2D, IEEE-VIT, Kong, NYCK8S, associmates, cedar-policy, cloud-native-nordics, cncf-maintainers, containernetworking, controlplaneio, controlplaneio-fluxcd, coppersoft-dev, cuttlefacts, deislabs, e13-tech, figma, fluxcd, fluxcd @controlplaneio-fluxcd, fluxcd-community, getsops, gitops-community, gitops-working-group, go-git, helm, jaegertracing, jkcfg, kong, kubecost, kubernetes, kubernetes @cncf @upbound, kubernetes-sigs, kvick, nex-health, open-gitops, openssf, prometheus-community, racklet, rbc, replicated, rook, sockjs, spegel-org, ssrl, subleleks, sumo-mcp, timonish, weaveworks, yaml, zkgrails'
 ---
 eget:
-  collectedAt: 2026-09-07T05:11:11+00:00
+  collectedAt: 2026-09-07T19:18:56+00:00
   platform:
     darwin/arm64:
       name:  flux_2.9.5_darwin_arm64.tar.gz
