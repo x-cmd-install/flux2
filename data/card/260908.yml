@@ -5,7 +5,7 @@ about:
   head: dede56a
   archived: false
   latestVersion: "v2.9.5"
-  collectedAt: 2026-09-08T02:27:31Z
+  collectedAt: 2026-09-08T05:27:12Z
 timeline:
   created: 2020-04-24
   lastCommit: 2026-09-06
@@ -83,7 +83,7 @@ total:
   commit: 3985
 ---
 path: /home/runner/.x-repo/github.com/fluxcd/flux2
-collectedAt: 2026-09-08T02:27:33Z
+collectedAt: 2026-09-08T05:27:14Z
 loc:
   Go:
     code: 33479
