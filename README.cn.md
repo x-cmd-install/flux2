@@ -4,7 +4,7 @@
 
 Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 
-![flux2](https://repo.x-cmd.io/flux2.svg)
+![flux2](https://repo.x-cmd.io/flux2.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,32 @@ x install flux2
 - **最新版本**: `v2.9.5` (2026-08-31)
 - **最近提交**: 2026-09-06
 - **Release 含资产**: 17 个
-- **发布时间**: 2026-08-31T17:05:02Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [crd-schemas.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/crd-schemas.tar.gz) | 80.0 KiB | `native/unknown` |
+| [flux_2.9.5_checksums.txt](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_checksums.txt) | 1.2 KiB | `other` |
+| [flux_2.9.5_checksums.txt.pem](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_checksums.txt.pem) | 3.1 KiB | `other` |
+| [flux_2.9.5_checksums.txt.sig](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_checksums.txt.sig) | 96 B | `other` |
+| [flux_2.9.5_darwin_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_darwin_amd64.tar.gz) | 24.1 MiB | `native/darwin/x64` |
+| [flux_2.9.5_darwin_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_darwin_arm64.tar.gz) | 22.2 MiB | `native/darwin/arm64` |
+| [flux_2.9.5_linux_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_linux_amd64.tar.gz) | 23.6 MiB | `native/linux/x64` |
+| [flux_2.9.5_linux_arm.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_linux_arm.tar.gz) | 22.1 MiB | `native/linux/arm` |
+| [flux_2.9.5_linux_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_linux_arm64.tar.gz) | 21.2 MiB | `native/linux/arm64` |
+| [flux_2.9.5_sbom.spdx.json](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_sbom.spdx.json) | 1.0 MiB | `other` |
+| [flux_2.9.5_source_code.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_source_code.tar.gz) | 1.4 MiB | `native/unknown` |
+| [flux_2.9.5_windows_386.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_windows_386.zip) | 23.1 MiB | `native/win/x64` |
+| [flux_2.9.5_windows_amd64.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_windows_amd64.zip) | 24.2 MiB | `native/win/x64` |
+| [flux_2.9.5_windows_arm64.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.5/flux_2.9.5_windows_arm64.zip) | 21.3 MiB | `native/win/arm64` |
+| [install.yaml](https://github.com/fluxcd/flux2/releases/download/v2.9.5/install.yaml) | 333.7 KiB | `other` |
+| [manifests.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/manifests.tar.gz) | 46.8 KiB | `native/unknown` |
+| [provenance.intoto.jsonl](https://github.com/fluxcd/flux2/releases/download/v2.9.5/provenance.intoto.jsonl) | 24.7 KiB | `other` |
 
 ## 流行度
 
-- **Star**: 8,390 · **Fork**: 780 · **开放 issue**: 1,652 · **贡献者**: 201
+- **Star**: 8,393 · **Fork**: 781 · **开放 issue**: 1,652 · **贡献者**: 201
 
 ## 累计统计
 
@@ -70,4 +91,4 @@ flux2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:21:02Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T17:06:34Z._
