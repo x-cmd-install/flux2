@@ -1,0 +1,16 @@
+- repo: altsisyphus
+  srcname: flux2
+  binnames:
+    - flux2
+    - flux2-debuginfo
+  visiblename: flux2
+  version: 2.7.5
+  origversion: 2.7.5-alt1
+  status: unique
+  summary: Container cluster management
+  maintainers:
+    - gamzin@altlinux.org
+  licenses:
+    - Apache-2.0
+  categories:
+    - System/Configuration/Other
