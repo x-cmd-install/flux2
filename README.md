@@ -12,6 +12,26 @@ Open and extensible continuous delivery solution for Kubernetes. Powered by GitO
 x install flux2
 ```
 
+## Code insight
+
+Total: **39,807** lines of code across **565** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 33,479 | 6,491 | 5,829 | 341 |
+| Yaml | 5,517 | 23 | 94 | 203 |
+| Hcl | 320 | 0 | 61 | 14 |
+| Sh | 229 | 40 | 38 | 2 |
+| Json | 147 | 0 | 0 | 5 |
+
+## OpenSSF Scorecard
+
+Overall score: **9 / 10**
+
+Lowest-scoring checks:
+
+- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+
 ## Source
 
 - **Upstream**: <https://github.com/fluxcd/flux2>
@@ -23,6 +43,25 @@ x install flux2
 - **Latest**: `v2.9.5` (2026-08-31)
 - **Last commit**: 2026-09-06
 - **Assets in release**: 17
+
+## Popularity
+
+- **Stars**: 8,393 · **Forks**: 781 · **Open issues**: 1,652 · **Contributors**: 201
+
+## Totals (cumulative)
+
+- **Releases**: 215 · **Merged PRs**: 1775 · **Open PRs**: 57 · **Closed issues**: 1451 · **Open issues**: 201 · **Commits**: 3985
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 5 | 8 | 3 | 5 | 2 |
+| last60d | 2026-07-12 | 4 | 22 | 16 | 7 | 12 | 10 |
+| 90d | 2026-06-12 | 6 | 45 | 20 | 21 | 17 | 45 |
+| last180d | 2026-03-14 | 12 | 94 | 28 | 52 | 28 | 108 |
+| 360d | 2025-09-15 | 21 | 204 | 34 | 105 | 45 | 186 |
+| last720d | 2024-09-20 | 29 | 330 | 38 | 223 | 83 | 610 |
 
 ## Release assets
 
@@ -46,42 +85,6 @@ x install flux2
 | [manifests.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.5/manifests.tar.gz) | 46.8 KiB | `native/unknown` |
 | [provenance.intoto.jsonl](https://github.com/fluxcd/flux2/releases/download/v2.9.5/provenance.intoto.jsonl) | 24.7 KiB | `other` |
 
-## Popularity
-
-- **Stars**: 8,393 · **Forks**: 781 · **Open issues**: 1,652 · **Contributors**: 201
-
-## Totals (cumulative)
-
-- **Releases**: 215 · **Merged PRs**: 1775 · **Open PRs**: 57 · **Closed issues**: 1451 · **Open issues**: 201 · **Commits**: 3985
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 1 | 5 | 8 | 3 | 5 | 2 |
-| 90d | 2026-06-12 | 6 | 45 | 20 | 21 | 17 | 45 |
-| 360d | 2025-09-15 | 21 | 204 | 34 | 105 | 45 | 186 |
-
-## Code size
-
-Total: **39,807** lines of code across **565** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 33,479 | 6,491 | 5,829 | 341 |
-| Yaml | 5,517 | 23 | 94 | 203 |
-| Hcl | 320 | 0 | 61 | 14 |
-| Sh | 229 | 40 | 38 | 2 |
-| Json | 147 | 0 | 0 | 5 |
-
-## OpenSSF Scorecard
-
-Overall score: **9 / 10**
-
-Lowest-scoring checks:
-
-- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
-
 ## Improve this data
 
 Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `flux2` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -91,4 +94,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T17:06:33Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:33:16Z._
