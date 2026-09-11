@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.9.5"
   latestRelease: "v2.9.5"
   latestPrerelease: ""
-  collectedAt: 2026-09-11T05:21:58Z
+  collectedAt: 2026-09-11T19:42:58Z
 timeline:
   created: 2020-04-24
   lastCommit: 2026-09-06
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-08-31
   lastPrerelease: 
 popularity:
-  star: 8393
+  star: 8395
   watcher: 68
   fork: 781
   release: 215
@@ -87,7 +87,7 @@ total:
   commit: 3985
 ---
 path: /home/runner/.x-repo/github.com/fluxcd/flux2
-collectedAt: 2026-09-11T05:22:01Z
+collectedAt: 2026-09-11T19:43:02Z
 loc:
   Go:
     code: 33479
