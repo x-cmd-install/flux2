@@ -30,7 +30,7 @@ Overall score: **9 / 10**
 
 Lowest-scoring checks:
 
-- **Vulnerabilities** (0/10) — 14 existing vulnerabilities detected
+- **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
 
 ## Source
 
@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 8,395 · **Forks**: 781 · **Open issues**: 1,652 · **Contributors**: 201
+- **Stars**: 8,397 · **Forks**: 782 · **Open issues**: 1,653 · **Contributors**: 201
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 1775 · **Open PRs**: 57 · **Closed issues**: 1451 · **Open issues**: 201 · **Commits**: 3985
+- **Releases**: 215 · **Merged PRs**: 1775 · **Open PRs**: 57 · **Closed issues**: 1451 · **Open issues**: 202 · **Commits**: 3985
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 1 | 5 | 8 | 3 | 5 | 2 |
-| last60d | 2026-07-13 | 4 | 18 | 16 | 5 | 12 | 10 |
-| 90d | 2026-06-13 | 6 | 45 | 20 | 21 | 17 | 45 |
-| last180d | 2026-03-15 | 12 | 94 | 28 | 50 | 28 | 108 |
-| 360d | 2025-09-16 | 21 | 201 | 34 | 104 | 45 | 186 |
-| last720d | 2024-09-21 | 29 | 330 | 38 | 223 | 83 | 610 |
+| 30d | 2026-08-14 | 1 | 5 | 8 | 2 | 6 | 2 |
+| last60d | 2026-07-15 | 3 | 18 | 16 | 5 | 13 | 10 |
+| 90d | 2026-06-15 | 6 | 45 | 20 | 21 | 16 | 45 |
+| last180d | 2026-03-17 | 11 | 92 | 27 | 49 | 29 | 108 |
+| 360d | 2025-09-18 | 21 | 201 | 34 | 104 | 45 | 186 |
+| last720d | 2024-09-23 | 29 | 330 | 38 | 223 | 84 | 610 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T19:43:11Z._
+_Snapshot: `data/card/260913.yml` · 2026-09-13T05:35:06Z._
