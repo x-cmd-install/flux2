@@ -4,7 +4,7 @@
 
 Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 
-![flux2](https://repo.x-cmd.io/flux2.svg)
+[![x-cmd/install — flux2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flux2.svg)](https://x-cmd.com/install/flux2)
 
 ## Install
 
@@ -14,11 +14,11 @@ x install flux2
 
 ## Code insight
 
-Total: **39,807** lines of code across **565** files in the top 5 languages.
+Total: **39,835** lines of code across **566** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 33,479 | 6,491 | 5,829 | 341 |
+| Go | 33,507 | 6,509 | 5,839 | 342 |
 | Yaml | 5,517 | 23 | 94 | 203 |
 | Hcl | 320 | 0 | 61 | 14 |
 | Sh | 229 | 40 | 38 | 2 |
@@ -26,11 +26,7 @@ Total: **39,807** lines of code across **565** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **9 / 10**
-
-Lowest-scoring checks:
-
-- **Vulnerabilities** (0/10) — 16 existing vulnerabilities detected
+Overall score: **9.4 / 10**
 
 ## Source
 
@@ -41,27 +37,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `v2.9.5` (2026-08-31)
-- **Last commit**: 2026-09-06
+- **Last commit**: 2026-09-18
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 8,411 · **Forks**: 784 · **Open issues**: 1,656 · **Contributors**: 201
+- **Stars**: 8,416 · **Forks**: 785 · **Open issues**: 1,656 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 1775 · **Open PRs**: 64 · **Closed issues**: 1451 · **Open issues**: 205 · **Commits**: 3985
+- **Releases**: 215 · **Merged PRs**: 1779 · **Open PRs**: 53 · **Closed issues**: 1452 · **Open issues**: 204 · **Commits**: 3992
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 1 | 5 | 15 | 2 | 9 | 2 |
-| last60d | 2026-07-20 | 3 | 18 | 22 | 5 | 15 | 9 |
-| 90d | 2026-06-20 | 6 | 42 | 28 | 17 | 18 | 39 |
-| last180d | 2026-03-22 | 11 | 92 | 34 | 49 | 32 | 107 |
-| 360d | 2025-09-23 | 21 | 196 | 41 | 103 | 48 | 178 |
-| last720d | 2024-09-28 | 29 | 322 | 45 | 221 | 87 | 592 |
+| 30d | 2026-08-21 | 1 | 9 | 7 | 3 | 8 | 6 |
+| last60d | 2026-07-22 | 3 | 19 | 12 | 6 | 12 | 13 |
+| 90d | 2026-06-22 | 6 | 46 | 18 | 18 | 17 | 43 |
+| last180d | 2026-03-24 | 11 | 96 | 23 | 48 | 31 | 111 |
+| 360d | 2025-09-25 | 21 | 195 | 30 | 103 | 47 | 182 |
+| last720d | 2024-09-30 | 29 | 325 | 34 | 221 | 86 | 599 |
 
 ## Release assets
 
@@ -94,4 +90,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:33:56Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:31:56Z._
