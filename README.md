@@ -42,22 +42,22 @@ Overall score: **9.4 / 10**
 
 ## Popularity
 
-- **Stars**: 8,418 · **Forks**: 785 · **Open issues**: 1,656 · **Contributors**: 202
+- **Stars**: 8,419 · **Forks**: 786 · **Open issues**: 1,656 · **Contributors**: 202
 
 ## Totals (cumulative)
 
-- **Releases**: 215 · **Merged PRs**: 1779 · **Open PRs**: 53 · **Closed issues**: 1452 · **Open issues**: 204 · **Commits**: 3992
+- **Releases**: 215 · **Merged PRs**: 1779 · **Open PRs**: 54 · **Closed issues**: 1452 · **Open issues**: 204 · **Commits**: 3992
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-22 | 1 | 9 | 7 | 3 | 8 | 6 |
-| last60d | 2026-07-23 | 3 | 17 | 12 | 6 | 12 | 10 |
-| 90d | 2026-06-23 | 6 | 46 | 18 | 18 | 17 | 33 |
-| last180d | 2026-03-25 | 11 | 96 | 23 | 48 | 31 | 105 |
-| 360d | 2025-09-26 | 21 | 193 | 30 | 103 | 47 | 171 |
-| last720d | 2024-10-01 | 28 | 325 | 34 | 220 | 86 | 596 |
+| 30d | 2026-08-23 | 1 | 9 | 8 | 3 | 8 | 6 |
+| last60d | 2026-07-24 | 2 | 17 | 13 | 6 | 11 | 10 |
+| 90d | 2026-06-24 | 6 | 45 | 19 | 17 | 17 | 33 |
+| last180d | 2026-03-26 | 11 | 96 | 24 | 48 | 30 | 105 |
+| 360d | 2025-09-27 | 21 | 193 | 31 | 103 | 47 | 171 |
+| last720d | 2024-10-02 | 28 | 325 | 35 | 219 | 85 | 596 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260921.yml` · 2026-09-21T05:45:15Z._
+_Snapshot: `data/card/260922.yml` · 2026-09-22T05:58:24Z._
