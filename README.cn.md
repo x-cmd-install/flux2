@@ -4,7 +4,7 @@
 
 Open and extensible continuous delivery solution for Kubernetes. Powered by GitOps Toolkit.
 
-[![x-cmd/install — flux2 Code Quality Monitoring Repo Card](https://repo.x-cmd.io/flux2.svg?lang=zh)](https://x-cmd.com/install/flux2)
+[![x-cmd/install — flux2 Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/flux2.svg?lang=zh)](https://x-cmd.com/install/flux2)
 
 ## 安装
 
@@ -37,27 +37,27 @@ x install flux2
 ## 发布
 
 - **最新版本**: `v2.9.5` (2026-08-31)
-- **最近提交**: 2026-09-18
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 17 个
 
 ## 流行度
 
-- **Star**: 8,419 · **Fork**: 786 · **开放 issue**: 1,656 · **贡献者**: 202
+- **Star**: 8,421 · **Fork**: 786 · **开放 issue**: 1,656 · **贡献者**: 202
 
 ## 累计统计
 
-- **发布数**: 215 · **已合并 PR**: 1779 · **开放 PR**: 54 · **已关闭 issue**: 1452 · **开放 issue**: 204 · **提交数**: 3992
+- **发布数**: 215 · **已合并 PR**: 1780 · **开放 PR**: 53 · **已关闭 issue**: 1452 · **开放 issue**: 204 · **提交数**: 3994
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 9 | 8 | 3 | 8 | 6 |
-| last60d | 2026-07-24 | 2 | 17 | 13 | 6 | 11 | 10 |
-| 90d | 2026-06-24 | 6 | 45 | 19 | 17 | 17 | 33 |
-| last180d | 2026-03-26 | 11 | 96 | 24 | 48 | 30 | 105 |
-| 360d | 2025-09-27 | 21 | 193 | 31 | 103 | 47 | 171 |
-| last720d | 2024-10-02 | 28 | 325 | 35 | 219 | 85 | 596 |
+| 30d | 2026-08-24 | 1 | 10 | 7 | 3 | 7 | 7 |
+| last60d | 2026-07-25 | 2 | 18 | 12 | 6 | 11 | 11 |
+| 90d | 2026-06-25 | 6 | 44 | 18 | 16 | 17 | 34 |
+| last180d | 2026-03-27 | 11 | 97 | 23 | 48 | 30 | 106 |
+| 360d | 2025-09-28 | 21 | 193 | 30 | 103 | 47 | 172 |
+| last720d | 2024-10-03 | 28 | 326 | 34 | 218 | 85 | 598 |
 
 ## Release 资产
 
@@ -90,4 +90,4 @@ flux2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T05:58:24Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T05:36:51Z._
