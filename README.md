@@ -26,7 +26,11 @@ Total: **40,170** lines of code across **573** files in the top 5 languages.
 
 ## OpenSSF Scorecard
 
-Overall score: **9.4 / 10**
+Overall score: **9.1 / 10**
+
+Lowest-scoring checks:
+
+- **Vulnerabilities** (2/10) — 8 existing vulnerabilities detected
 
 ## Source
 
@@ -52,12 +56,12 @@ Overall score: **9.4 / 10**
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-09 | 1 | 13 | 6 | 4 | 4 | 13 |
-| last60d | 2026-08-10 | 2 | 18 | 12 | 9 | 8 | 16 |
-| 90d | 2026-07-11 | 5 | 37 | 18 | 12 | 15 | 26 |
-| last180d | 2026-04-12 | 10 | 89 | 27 | 44 | 27 | 93 |
-| 360d | 2025-10-14 | 19 | 172 | 32 | 99 | 44 | 166 |
-| last720d | 2024-10-19 | 29 | 334 | 37 | 219 | 83 | 614 |
+| 30d | 2026-09-10 | 1 | 13 | 6 | 4 | 4 | 13 |
+| last60d | 2026-08-11 | 2 | 18 | 12 | 8 | 8 | 16 |
+| 90d | 2026-07-12 | 5 | 35 | 18 | 12 | 15 | 26 |
+| last180d | 2026-04-13 | 10 | 88 | 27 | 44 | 27 | 93 |
+| 360d | 2025-10-15 | 19 | 172 | 32 | 99 | 43 | 166 |
+| last720d | 2024-10-20 | 29 | 334 | 37 | 219 | 83 | 614 |
 
 ## Release assets
 
@@ -90,4 +94,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261009.yml` · 2026-10-09T06:38:26Z._
+_Snapshot: `data/card/261010.yml` · 2026-10-10T06:26:05Z._
