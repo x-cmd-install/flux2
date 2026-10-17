@@ -37,27 +37,27 @@ Overall score: **9.6 / 10**
 ## Release
 
 - **Latest**: `v2.9.6` (2026-10-01)
-- **Last commit**: 2026-10-14
+- **Last commit**: 2026-10-17
 - **Assets in release**: 17
 
 ## Popularity
 
-- **Stars**: 8,444 · **Forks**: 794 · **Open issues**: 1,662 · **Contributors**: 206
+- **Stars**: 8,445 · **Forks**: 795 · **Open issues**: 1,663 · **Contributors**: 206
 
 ## Totals (cumulative)
 
-- **Releases**: 216 · **Merged PRs**: 1795 · **Open PRs**: 55 · **Closed issues**: 1459 · **Open issues**: 203 · **Commits**: 4022
+- **Releases**: 216 · **Merged PRs**: 1796 · **Open PRs**: 55 · **Closed issues**: 1459 · **Open issues**: 204 · **Commits**: 4024
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-16 | 1 | 16 | 5 | 1 | 4 | 16 |
-| last60d | 2026-08-17 | 2 | 24 | 10 | 7 | 10 | 22 |
-| 90d | 2026-07-18 | 4 | 37 | 17 | 10 | 16 | 30 |
-| last180d | 2026-04-19 | 10 | 93 | 26 | 43 | 28 | 97 |
-| 360d | 2025-10-21 | 19 | 175 | 31 | 99 | 44 | 171 |
-| last720d | 2024-10-26 | 29 | 340 | 36 | 220 | 82 | 626 |
+| 30d | 2026-09-17 | 1 | 17 | 5 | 1 | 5 | 17 |
+| last60d | 2026-08-18 | 2 | 25 | 10 | 7 | 11 | 23 |
+| 90d | 2026-07-19 | 4 | 38 | 15 | 10 | 17 | 31 |
+| last180d | 2026-04-20 | 10 | 94 | 26 | 43 | 29 | 98 |
+| 360d | 2025-10-22 | 19 | 176 | 31 | 98 | 45 | 172 |
+| last720d | 2024-10-27 | 29 | 341 | 36 | 220 | 83 | 628 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261016.yml` · 2026-10-16T05:01:42Z._
+_Snapshot: `data/card/261017.yml` · 2026-10-17T04:54:59Z._
