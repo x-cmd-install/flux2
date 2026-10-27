@@ -14,13 +14,13 @@ x install flux2
 
 ## 代码洞察
 
-合计: **46,085** 行代码（覆盖前 5 种语言、共 **617** 个文件）。
+合计: **46,239** 行代码（覆盖前 5 种语言、共 **617** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 37,860 | 7,090 | 6,283 | 363 |
-| Yaml | 7,175 | 23 | 96 | 232 |
-| Sh | 460 | 61 | 69 | 3 |
+| Go | 37,823 | 7,075 | 6,278 | 362 |
+| Yaml | 7,258 | 23 | 96 | 233 |
+| Sh | 576 | 67 | 78 | 3 |
 | Hcl | 320 | 0 | 61 | 14 |
 | Json | 147 | 0 | 0 | 5 |
 
@@ -36,50 +36,49 @@ x install flux2
 
 ## 发布
 
-- **最新版本**: `v2.9.6` (2026-10-01)
-- **最近提交**: 2026-10-25
-- **Release 含资产**: 17 个
+- **最新版本**: `v2.10.0` (2026-10-26)
+- **最近提交**: 2026-10-26
+- **Release 含资产**: 16 个
 
 ## 流行度
 
-- **Star**: 8,463 · **Fork**: 807 · **开放 issue**: 1,668 · **贡献者**: 216
+- **Star**: 8,467 · **Fork**: 807 · **开放 issue**: 1,668 · **贡献者**: 216
 
 ## 累计统计
 
-- **发布数**: 216 · **已合并 PR**: 1829 · **开放 PR**: 43 · **已关闭 issue**: 1469 · **开放 issue**: 199 · **提交数**: 4118
+- **发布数**: 217 · **已合并 PR**: 1831 · **开放 PR**: 44 · **已关闭 issue**: 1469 · **开放 issue**: 199 · **提交数**: 4123
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-26 | 1 | 38 | 3 | 5 | 6 | 58 |
-| last60d | 2026-08-27 | 2 | 53 | 6 | 10 | 10 | 70 |
-| 90d | 2026-07-28 | 3 | 62 | 8 | 13 | 14 | 79 |
-| last180d | 2026-04-29 | 9 | 122 | 12 | 42 | 28 | 155 |
-| 360d | 2025-10-31 | 18 | 204 | 19 | 102 | 43 | 229 |
-| last720d | 2024-11-05 | 29 | 373 | 24 | 224 | 78 | 721 |
+| 30d | 2026-09-27 | 2 | 40 | 4 | 5 | 6 | 61 |
+| last60d | 2026-08-28 | 3 | 55 | 7 | 10 | 10 | 73 |
+| 90d | 2026-07-29 | 4 | 61 | 9 | 13 | 14 | 82 |
+| last180d | 2026-04-30 | 10 | 124 | 13 | 42 | 28 | 158 |
+| 360d | 2025-11-01 | 19 | 204 | 20 | 101 | 43 | 232 |
+| last720d | 2024-11-06 | 30 | 375 | 25 | 224 | 78 | 726 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [crd-schemas.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/crd-schemas.tar.gz) | 80.7 KiB | `native/unknown` |
-| [flux_2.9.6_checksums.txt](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_checksums.txt) | 1.2 KiB | `other` |
-| [flux_2.9.6_checksums.txt.pem](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_checksums.txt.pem) | 3.1 KiB | `other` |
-| [flux_2.9.6_checksums.txt.sig](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_checksums.txt.sig) | 96 B | `other` |
-| [flux_2.9.6_darwin_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_darwin_amd64.tar.gz) | 24.1 MiB | `native/darwin/x64` |
-| [flux_2.9.6_darwin_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_darwin_arm64.tar.gz) | 22.2 MiB | `native/darwin/arm64` |
-| [flux_2.9.6_linux_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_linux_amd64.tar.gz) | 23.6 MiB | `native/linux/x64` |
-| [flux_2.9.6_linux_arm.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_linux_arm.tar.gz) | 22.1 MiB | `native/linux/arm` |
-| [flux_2.9.6_linux_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_linux_arm64.tar.gz) | 21.2 MiB | `native/linux/arm64` |
-| [flux_2.9.6_sbom.spdx.json](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_sbom.spdx.json) | 1.0 MiB | `other` |
-| [flux_2.9.6_source_code.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_source_code.tar.gz) | 1.4 MiB | `native/unknown` |
-| [flux_2.9.6_windows_386.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_windows_386.zip) | 23.1 MiB | `native/win/x64` |
-| [flux_2.9.6_windows_amd64.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_windows_amd64.zip) | 24.2 MiB | `native/win/x64` |
-| [flux_2.9.6_windows_arm64.zip](https://github.com/fluxcd/flux2/releases/download/v2.9.6/flux_2.9.6_windows_arm64.zip) | 21.3 MiB | `native/win/arm64` |
-| [install.yaml](https://github.com/fluxcd/flux2/releases/download/v2.9.6/install.yaml) | 333.7 KiB | `other` |
-| [manifests.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.9.6/manifests.tar.gz) | 46.8 KiB | `native/unknown` |
-| [provenance.intoto.jsonl](https://github.com/fluxcd/flux2/releases/download/v2.9.6/provenance.intoto.jsonl) | 24.5 KiB | `other` |
+| [crd-schemas.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/crd-schemas.tar.gz) | 92.6 KiB | `native/unknown` |
+| [flux_2.10.0_checksums.txt](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_checksums.txt) | 1.2 KiB | `other` |
+| [flux_2.10.0_checksums.txt.sigstore.json](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_checksums.txt.sigstore.json) | 9.8 KiB | `other` |
+| [flux_2.10.0_darwin_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_darwin_amd64.tar.gz) | 25.6 MiB | `native/darwin/x64` |
+| [flux_2.10.0_darwin_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_darwin_arm64.tar.gz) | 23.4 MiB | `native/darwin/arm64` |
+| [flux_2.10.0_linux_amd64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_linux_amd64.tar.gz) | 25.0 MiB | `native/linux/x64` |
+| [flux_2.10.0_linux_arm.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_linux_arm.tar.gz) | 23.4 MiB | `native/linux/arm` |
+| [flux_2.10.0_linux_arm64.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_linux_arm64.tar.gz) | 22.3 MiB | `native/linux/arm64` |
+| [flux_2.10.0_sbom.spdx.json](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_sbom.spdx.json) | 1.1 MiB | `other` |
+| [flux_2.10.0_source_code.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_source_code.tar.gz) | 1.4 MiB | `native/unknown` |
+| [flux_2.10.0_windows_386.zip](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_windows_386.zip) | 24.5 MiB | `native/win/x64` |
+| [flux_2.10.0_windows_amd64.zip](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_windows_amd64.zip) | 25.6 MiB | `native/win/x64` |
+| [flux_2.10.0_windows_arm64.zip](https://github.com/fluxcd/flux2/releases/download/v2.10.0/flux_2.10.0_windows_arm64.zip) | 22.5 MiB | `native/win/arm64` |
+| [install.yaml](https://github.com/fluxcd/flux2/releases/download/v2.10.0/install.yaml) | 374.9 KiB | `other` |
+| [manifests.tar.gz](https://github.com/fluxcd/flux2/releases/download/v2.10.0/manifests.tar.gz) | 53.5 KiB | `native/unknown` |
+| [provenance.intoto.jsonl](https://github.com/fluxcd/flux2/releases/download/v2.10.0/provenance.intoto.jsonl) | 24.5 KiB | `other` |
 
 ## 改进这些数据
 
@@ -90,4 +89,4 @@ flux2 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) �
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261026.yml` · 2026-10-26T05:17:49Z._
+_数据快照: `data/card/261027.yml` · 2026-10-27T05:34:11Z._
