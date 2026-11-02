@@ -52,12 +52,12 @@ Overall score: **9.5 / 10**
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 1 | 35 | 7 | 5 | 5 | 61 |
-| last60d | 2026-09-02 | 2 | 49 | 10 | 11 | 7 | 73 |
-| 90d | 2026-08-03 | 4 | 61 | 12 | 14 | 12 | 82 |
-| last180d | 2026-05-05 | 10 | 124 | 17 | 43 | 26 | 158 |
-| 360d | 2025-11-06 | 19 | 204 | 24 | 101 | 41 | 232 |
-| last720d | 2024-11-11 | 30 | 374 | 29 | 224 | 76 | 724 |
+| 30d | 2026-10-03 | 1 | 35 | 7 | 5 | 5 | 56 |
+| last60d | 2026-09-03 | 2 | 49 | 10 | 11 | 7 | 71 |
+| 90d | 2026-08-04 | 4 | 61 | 12 | 14 | 12 | 80 |
+| last180d | 2026-05-06 | 10 | 122 | 17 | 43 | 25 | 156 |
+| 360d | 2025-11-07 | 19 | 204 | 24 | 101 | 41 | 231 |
+| last720d | 2024-11-12 | 30 | 373 | 29 | 224 | 76 | 723 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T06:49:03Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T06:41:49Z._
