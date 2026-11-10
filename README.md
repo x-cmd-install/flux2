@@ -37,27 +37,27 @@ Overall score: **9.4 / 10**
 ## Release
 
 - **Latest**: `v2.10.0` (2026-10-26)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-09
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 8,504 · **Forks**: 813 · **Open issues**: 1,671 · **Contributors**: 216
+- **Stars**: 8,508 · **Forks**: 813 · **Open issues**: 1,672 · **Contributors**: 216
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 1834 · **Open PRs**: 51 · **Closed issues**: 1472 · **Open issues**: 199 · **Commits**: 4125
+- **Releases**: 217 · **Merged PRs**: 1835 · **Open PRs**: 51 · **Closed issues**: 1472 · **Open issues**: 200 · **Commits**: 4127
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-10 | 1 | 36 | 10 | 5 | 6 | 49 |
-| last60d | 2026-09-10 | 2 | 51 | 12 | 10 | 9 | 70 |
-| 90d | 2026-08-11 | 3 | 59 | 15 | 14 | 13 | 77 |
-| last180d | 2026-05-13 | 9 | 121 | 19 | 41 | 26 | 155 |
-| 360d | 2025-11-14 | 19 | 204 | 27 | 101 | 41 | 229 |
-| last720d | 2024-11-19 | 30 | 375 | 32 | 225 | 77 | 721 |
+| 30d | 2026-10-11 | 1 | 37 | 10 | 5 | 7 | 50 |
+| last60d | 2026-09-11 | 2 | 52 | 12 | 10 | 9 | 71 |
+| 90d | 2026-08-12 | 3 | 60 | 15 | 14 | 14 | 78 |
+| last180d | 2026-05-14 | 9 | 122 | 19 | 39 | 27 | 156 |
+| 360d | 2025-11-15 | 19 | 205 | 27 | 101 | 42 | 230 |
+| last720d | 2024-11-20 | 30 | 376 | 32 | 225 | 78 | 723 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261109.yml` · 2026-11-09T07:13:08Z._
+_Snapshot: `data/card/261110.yml` · 2026-11-10T07:52:16Z._
