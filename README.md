@@ -37,27 +37,27 @@ Overall score: **9.4 / 10**
 ## Release
 
 - **Latest**: `v2.10.0` (2026-10-26)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-17
 - **Assets in release**: 16
 
 ## Popularity
 
-- **Stars**: 8,520 · **Forks**: 817 · **Open issues**: 1,674 · **Contributors**: 218
+- **Stars**: 8,528 · **Forks**: 820 · **Open issues**: 1,675 · **Contributors**: 218
 
 ## Totals (cumulative)
 
-- **Releases**: 217 · **Merged PRs**: 1843 · **Open PRs**: 49 · **Closed issues**: 1475 · **Open issues**: 199 · **Commits**: 4141
+- **Releases**: 217 · **Merged PRs**: 1845 · **Open PRs**: 49 · **Closed issues**: 1477 · **Open issues**: 198 · **Commits**: 4145
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 1 | 34 | 10 | 5 | 6 | 35 |
-| last60d | 2026-09-18 | 2 | 54 | 11 | 8 | 9 | 74 |
-| 90d | 2026-08-19 | 3 | 67 | 14 | 14 | 15 | 86 |
-| last180d | 2026-05-21 | 8 | 124 | 18 | 39 | 26 | 159 |
-| 360d | 2025-11-22 | 19 | 205 | 26 | 98 | 43 | 236 |
-| last720d | 2024-11-27 | 30 | 384 | 31 | 224 | 79 | 737 |
+| 30d | 2026-10-20 | 1 | 34 | 10 | 5 | 7 | 38 |
+| last60d | 2026-09-20 | 2 | 56 | 11 | 9 | 9 | 77 |
+| 90d | 2026-08-21 | 3 | 69 | 14 | 15 | 15 | 89 |
+| last180d | 2026-05-23 | 8 | 124 | 18 | 40 | 26 | 162 |
+| 360d | 2025-11-24 | 19 | 207 | 26 | 99 | 42 | 239 |
+| last720d | 2024-11-29 | 30 | 386 | 31 | 225 | 79 | 741 |
 
 ## Release assets
 
@@ -89,4 +89,4 @@ Install metadata for flux2 lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T10:14:13Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:41:27Z._
